@@ -1,4 +1,4 @@
-setwd("D:/!R/GettingAndCleaning/courseProject/UCI HAR Dataset/")
+
 
 install.packages("data.table")
 library(data.table)
